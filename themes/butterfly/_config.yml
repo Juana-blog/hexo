@@ -441,7 +441,8 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: <a href="https://icp.gov.moe/?keyword=20230705" target="_blank">萌ICP备20230705号</a>
+  custom_text: <meta name="google-site-verification" content="yM2TX2fq0IX-9RN7Uh8PlYjTJ115FaHki9lfBQtWl5s" />
+    <a href="https://icp.gov.moe/?keyword=20230705" target="_blank">萌ICP备20230705号</a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
