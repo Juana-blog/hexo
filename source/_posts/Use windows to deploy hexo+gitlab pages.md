@@ -17,7 +17,7 @@ updated: '2023-01-07 21:56:37'
 ---
 # This article was translated by the Chinese version using Google Translate
 
-Chinese version: [使用windows部署hexo+gitlab pages环境 | ursb's blog](https://blog.ursb.eu.org/%E4%BD%BF%E7%94%A8windows%E9%83%A8%E7%BD%B2hexo+gitlab-pages%E7%8E%AF%E5%A2%83/)
+Chinese version: [使用windows部署hexo+gitlab pages环境](https://hexo.gw.to/%E4%BD%BF%E7%94%A8windows%E9%83%A8%E7%BD%B2hexo+gitlab-pages%E7%8E%AF%E5%A2%83/)
 
 # Preparation
 
