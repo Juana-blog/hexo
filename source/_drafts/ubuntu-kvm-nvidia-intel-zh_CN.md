@@ -10,7 +10,7 @@ tags:
 - KVM
 - Nvidia
 title: ubuntu KVM I+N Nvidia独显直通
-updated: Sun, 26 Feb 2023 10:19:55 GMT
+updated: Sun, 26 Feb 2023 10:25:44 GMT
 ---
 # 注意事项
 
@@ -30,7 +30,7 @@ updated: Sun, 26 Feb 2023 10:19:55 GMT
 
 ```
 sudo apt-get update
-sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virtinst virt-manager
+sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virtinst virt-manager ovmf
 ```
 
 ![image.png](https://s2.loli.net/2023/02/26/uzSdp5t3wb12Ji6.png)
@@ -58,6 +58,8 @@ cat /proc/cmdline | grep iommu
 
 ```
 
+![image.png](https://s2.loli.net/2023/02/26/vRDheJwtNLp7E4A.png)如像上图一样输出了，请执行下一步
+
 ```
 
 sudo nano /etc/default/grub
@@ -74,3 +76,22 @@ sudo update-grub
 ```
 
 然后使用 `sudo reboot` 重启电脑
+
+# 5.宿主机解绑显卡
+
+将nvidia驱动改为开源驱动
+
+![image.png](https://s2.loli.net/2023/02/26/yVCBpN54ARDfbSx.png)
+
+修改root密码: `sudo passwd root`
+
+`su`
+
+```
+echo 'blacklist nouveau
+blacklist snd_hda_intel' >> /etc/modprobe.d/blacklist.conf
+```
+
+![image.png](https://s2.loli.net/2023/02/26/pVbHm2cCz38irwQ.png)
+
+重启系统 `sudo reboot`
