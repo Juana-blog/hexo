@@ -10,7 +10,7 @@ tags:
 - KVM
 - Nvidia
 title: ubuntu KVM I+N Nvidia独显直通
-updated: Sun, 26 Feb 2023 09:42:43 GMT
+updated: Sun, 26 Feb 2023 10:19:55 GMT
 ---
 # 注意事项
 
@@ -54,15 +54,23 @@ sudo usermod -aG kvm $USER
 ## 查看是否开启了iommu
 
 ```
-cat /proc/cmdline | grep iommu## 如未开启iommu
+cat /proc/cmdline | grep iommu
 
 ```
+
+```
+
 sudo nano /etc/default/grub
 ```
+
 在 `GRUB_CMDLINE_LINUX_DEFAULT` 的 =“” 内添加 `intel_iommu=on`
 
 ![image.png](https://s2.loli.net/2023/02/26/dqGXbwa21RlPscj.png)
 
 添加完后按 `ctrl + x` 保存并退出
+
+```
+sudo update-grub
+```
 
 然后使用 `sudo reboot` 重启电脑
