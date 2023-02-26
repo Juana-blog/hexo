@@ -1,5 +1,4 @@
 ---
-abbrlink: KVM-nvidia-CN
 categories:
 - - ubuntu
 - - KVM
@@ -10,7 +9,7 @@ tags:
 - ubuntu
 - KVM
 - Nvidia
-title: ubuntu KVM I+N Nvidia独显直通
+title: ubuntu KVM Intel+Nvidia 独显直通
 updated: Sun, 26 Feb 2023 10:41:04 GMT
 ---
 # 注意事项
