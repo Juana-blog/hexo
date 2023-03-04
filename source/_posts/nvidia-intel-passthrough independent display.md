@@ -1,10 +1,17 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - nvidia
+- - ubuntu
+- - kvm
+cover: https://s2.loli.net/2023/02/26/sgJ63I8YMKDb7cv.png
 date: '2023-03-04 11:25:21'
-tags: []
+tags:
+- nvidia
+- ubuntu
+- kvm
 title: nvidia-intel-passthrough independent display
-updated: Sat, 04 Mar 2023 03:25:21 GMT
+updated: Sat, 04 Mar 2023 10:18:23 GMT
 ---
 This article was translated by the Chinese version using Google Translate
 
