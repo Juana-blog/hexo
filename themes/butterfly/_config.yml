@@ -331,6 +331,8 @@ valine:
 # https://waline.js.org/
 waline:
   serverURL: comment.ursb.eu.org # Waline server address url
+  bg: # waline background
+  pageview: false
   option:
     locale: {
       nick: '昵称',
