@@ -17,7 +17,7 @@ updated: '2023-01-01 01:45:08'
 ---
 # This article was translated by the Chinese version using Google Translate
 
-Chinese version:[wgcf for windows教程](https://hexo.gw.to/wgcf/)
+Chinese version:[wgcf for windows教程](https://hexo.myfw.us/wgcf/)
 
 
 The IPv4 charges of the campus network are relatively expensive in many colleges and universities, while IPv6 has unlimited speed and limit. After the routing change of the education network on September 10, 2020, CERNET was interconnected with HE at HKIX in the form of Peer via IX. Because HE itself is one of the top IPv6, its interconnection in HKIX is still an open Public Peering, which greatly reduces the difficulty of reaching the CERNET Hong Kong interconnection point. After this modification, although the 10G link to HKIX has a certain degree of congestion, the speed is still much better than the previous North American direction.
