@@ -15,7 +15,7 @@ updated: Sat, 04 Mar 2023 10:18:23 GMT
 ---
 This article was translated by the Chinese version using Google Translate
 
-Chinese : [nvidia-intel-nvidia-直通独显 | Juana's Blog (gw.to)](https://hexo.gw.to/nvidia-intel-nvidia-%E7%9B%B4%E9%80%9A%E7%8B%AC%E6%98%BE/)
+Chinese : [nvidia-intel-nvidia-直通独显 | Juana's Blog](https://hexo.myfw.us/nvidia-intel-nvidia-%E7%9B%B4%E9%80%9A%E7%8B%AC%E6%98%BE/)
 
 # This article was translated by the Chinese version using Google Translate
 
