@@ -13,7 +13,7 @@ updated: '2023-01-08 01:59:55'
 ---
 # This article was translated by the Chinese version using Google Translate
 
-Chinese version:[让你的windows命令行体验更佳](https://hexo.gw.to/让你的windows终端更好用/)
+Chinese version:[让你的windows命令行体验更佳](https://hexo.myfw.us/让你的windows终端更好用/)
 
 I believe that we are all tortured by the poor command line experience of windows, so, instead of waiting for Microsoft's bounced ticket, it is better for us to pile up plug-ins to improve the command line experience.
 
