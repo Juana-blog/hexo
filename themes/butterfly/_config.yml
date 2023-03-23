@@ -700,9 +700,7 @@ aside:
       link: https://github.com/Juana-blog
   card_announcement:
     enable: true
-    content: Welcome to Juana's Blog
-    Main site is https://hexo.gw.to
-    Alternate site is https://juana.eu.org
+    content: Welcome to Juana's Blog \n Main site is https://hexo.gw.to \n Alternate site is https://juana.eu.org
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
