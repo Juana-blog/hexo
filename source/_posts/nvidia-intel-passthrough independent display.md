@@ -11,7 +11,7 @@ tags:
 - ubuntu
 - kvm
 title: nvidia-intel-passthrough independent display
-updated: Sat, 04 Mar 2023 10:18:23 GMT
+updated: Sat, 25 Mar 2023 10:06:05 GMT
 ---
 This article was translated by the Chinese version using Google Translate
 
@@ -147,7 +147,7 @@ Click `Load Driver` `OK` to select the applicable driver for your Windows versio
 
 Install guest-tools as administrator
 
-# Be sure to go to [nvidia official website] (https://nvidia.cn/) to install the latest driver
+# Be sure to go to [nvidia official website](https://nvidia.com/) to install the latest driver
 
 ![image.png](https://s2.loli.net/2023/02/26/sgJ63I8YMKDb7cv.png)
 
