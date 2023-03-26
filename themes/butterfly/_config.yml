@@ -55,9 +55,9 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   preload: false
-  CDN:
+  CDN: cloudflare
 
 # Docsearch
 # https://docsearch.algolia.com/
