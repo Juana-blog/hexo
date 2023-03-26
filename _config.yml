@@ -108,3 +108,9 @@ sitemap:
     path: sitemap.xml # 索引地图路径
     tag: false # 标签页不添加到网站地图中
     category: false # 分类页不添加到网站地图中
+
+search:
+  path: search.xml
+  field: all # post:文章范围、page:页面范围、all:覆盖所有
+  content: true # 内容是否包含每一篇文章的全部内容
+  template:  # ./search.xml 指定定制的XML模板
