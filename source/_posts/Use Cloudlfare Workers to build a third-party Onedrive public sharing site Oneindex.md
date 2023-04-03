@@ -8,7 +8,7 @@ cover: https://s2.loli.net/2023/04/03/sT53faGbmOPFdIi.png
 date: '2023-04-03 21:58:54'
 tags:
 - cloudflare
--workers
+- workers
 - wrangler
 title: Use Cloudlfare Workers to build a third-party Onedrive public sharing site Oneindex
 updated: Mon, 03 Apr 2023 13:58:58 GMT
