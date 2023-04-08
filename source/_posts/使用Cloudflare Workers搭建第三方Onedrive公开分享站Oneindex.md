@@ -10,7 +10,7 @@ tags:
 - cloudflare
 - workers
 - wrangler
-title: 使用Cloudlfare Workers搭建第三方Onedrive公开分享站Oneindex
+title: 使用Cloudflare Workers搭建第三方Onedrive公开分享站Oneindex
 updated: Mon, 03 Apr 2023 13:58:58 GMT
 ---
 # 在线体验
