@@ -10,7 +10,7 @@ tags:
 - cloudflare
 - workers
 - wrangler
-title: Use Cloudlfare Workers to build a third-party Onedrive public sharing site Oneindex
+title: Use Cloudflare Workers to build a third-party Onedrive public sharing site Oneindex
 updated: Mon, 03 Apr 2023 13:58:58 GMT
 ---
 # online experience
